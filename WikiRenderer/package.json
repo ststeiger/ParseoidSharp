@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "wikirenderer",
+  "private": true,
+  "dependencies": {
+    "parsoid": "0.8.0"
+  },
+  "devDependencies": {}
+}
